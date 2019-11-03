@@ -1,10 +1,10 @@
-# <p align="center"> Global-Shark-Attack-Incidents
+# <p align="center"> Global-Shark-Attack-Incidents</p>
 
 
-  <img  src="https://github.com/Juliopdata/Global-Shark-Attack-Incidents/blob/master/SRC/JAWS-poster.jpg">
+  <p align="center"> <img  src="https://github.com/Juliopdata/Global-Shark-Attack-Incidents/blob/master/SRC/JAWS-poster.jpg"></p>
 
 
-Data complied by the global shark attacks file</p>
+<p align="center">Data complied by the global shark attacks file</p>
 
 
 ---
@@ -48,6 +48,7 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
     - Importing functions to clean
     - Fixing columns values
     - Deleting rows with unknown values
+    
 
 3. Exploring the clean dataset with graphics:
     - Countries of the attacks
@@ -60,9 +61,10 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
 
 ## Conclusions
 
-    - Usa is the country with more sharks attacks
-    - Florida is the area where there are more attacks
-    - The 2000 years are the years with most sharks attacks
+    - Usa is the country with more sharks attacks.
+    - Florida is the area where there are more attacks.
+    - The 2000 years are the years with most sharks attacks.
+    - Uruguay with no Sea have at least One shark attack.
     
 
 ## Bonus
