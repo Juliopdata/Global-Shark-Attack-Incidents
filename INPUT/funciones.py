@@ -42,6 +42,19 @@ def countries(text):
 
 def clean_year(text):  
     if text > 1940 : 
-        return text
+        return int(text)
     else:
         return np.nan
+
+def clean_areas(text):
+    text = str(text)
+    text = text.strip()
+    text = text.upper()
+    if text == 'd\x92Étang-Salé':
+        return 'ETANG-SALE'
+    if text == '"HEAD OF THE GULF"':
+        return 'HEAD OF THE GULF'
+    if text == '(SOUTHWESTERN PACIFIC)':
+        return 'SOUTHWESTERN PACIFIC'
+    else:
+        return text
