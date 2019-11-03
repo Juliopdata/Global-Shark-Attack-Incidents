@@ -41,7 +41,7 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
 
 1- Exploring the original dataset
 
-2. Start the cleaning process using my data wrangling skills, includes:
+2- Start the cleaning process using my data wrangling skills, includes:
     - Deleting not useful columns
     - Dealing with missing values 
     - Fixing the column names 
@@ -50,7 +50,7 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
     - Deleting rows with unknown values
     
 
-3. Exploring the clean dataset with graphics:
+3- Exploring the clean dataset with graphics:
     - Countries of the attacks
     - Years
     - Sex of the victims
