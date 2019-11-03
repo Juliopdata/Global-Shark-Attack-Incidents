@@ -17,5 +17,55 @@ The goal of this project is to combine everything I have learned about data wran
 
 **Are USA citizens the favourite food of de common shark?**
 
+**Is there any country landlocked with sharks attacks**
+
+## Project structure
+
+The project folder is structured in the following way:
+
+* __main.ipynb__ : contains the notebook with the calculums and all the explanations about my research.
+
+* __INPUT__ : Folder where the dataset should be placed in csv format.
+
+* __OUTPUT__ : Folder that contains the cleaned datasets after clenaing an analysis.
+
+* __SRC__: Folder that concains the file functions.py with all the auxiliar functios used in our project.
+
+## Data import process
+
+The first step in this project is to import the data from the provided .csv file to a pandas DataFrame.
+
+In this case the .csv file provided is nos codified in utf-8, so it has been to import it with the parameter encode='iso-8859-1'.
+
+## Cleaning and analyzing
+
+1- Exploring the original dataset
+
+2. Start the cleaning process using my data wrangling skills, includes:
+    - Deleting not useful columns
+    - Dealing with missing values 
+    - Fixing the column names 
+    - Importing functions to clean
+    - Fixing columns values
+    - Deleting rows with unknown values
+
+3. Exploring the clean dataset with graphics:
+    - Countries of the attacks
+    - Years
+    - Sex of the victims
+    - Casualties
+
+
+
+
+## Conclusions
+
+    - Usa is the country with more sharks attacks
+    - Florida is the area where there are more attacks
+    - The 2000 years are the years with most sharks attacks
+    
+
+## Bonus
+
 
 
