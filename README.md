@@ -48,6 +48,7 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
     - Importing functions to clean
     - Fixing columns values
     - Deleting rows with unknown values
+    - Checking duplicates.
     
 
 3- Exploring the clean dataset with graphics:
@@ -67,7 +68,15 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
     - Uruguay with no Sea have at least One shark attack.
     
 
-## Bonus
+
+
+## Useful Resources
+
+* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+* [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+* [StackOverflow Pandas Questions](https://stackoverflow.com/questions/tagged/pandas)
+* [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)
+* [Kaggle Data Sets](https://www.kaggle.com/datasets)
 
 
 
