@@ -10,7 +10,7 @@ def fatality(text):
     if re.search('[Yn]', text):
         return 'Y'
     else:
-        return 'UNKNOWN'
+        return np.nan
 
 def clean_countries(text):
     text = str(text)
@@ -42,7 +42,7 @@ def countries(text):
 
 def clean_year(text):  
     if text > 1940 : 
-        return int(text)
+        return text
     else:
         return np.nan
 
