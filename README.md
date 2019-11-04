@@ -17,7 +17,9 @@ The goal of this project is to combine everything I have learned about data wran
 
 **Are USA citizens the favourite food of de common shark?**
 
-**Is there any country landlocked with sharks attacks**
+**Is there any country landlocked with sharks attacks?**
+
+**It was more easy to die die a Dog attack than by Shark attack in 1989**
 
 ## Project structure
 
@@ -66,6 +68,7 @@ In this case the .csv file provided is nos codified in utf-8, so it has been to 
     - Florida is the area where there are more attacks.
     - The 2000 years are the years with most sharks attacks.
     - Uruguay with no Sea have at least One shark attack.
+    - In 1989 same number of people die by Dogs and Sharks attacks.
     
 
 
